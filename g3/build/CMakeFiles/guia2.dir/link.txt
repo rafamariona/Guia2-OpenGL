@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/guia2.dir/main.cpp.o  -o guia2 -rdynamic -lGLU -lGL -lglut -lXmu -lXi 
